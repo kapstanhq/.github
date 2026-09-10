@@ -8,7 +8,7 @@ the thing today, writes the rule down, builds what executes it, and puts it in
 production. What stays is yours: code, servers and accounts in your company's
 name from day one.
 
-São Paulo and Porto Alegre, Brazil · [kapstan.com.br](https://kapstan.com.br)
+Remote-first · HQ Porto Alegre, Brazil · [kapstan.com.br](https://kapstan.com.br)
 
 ---
 
@@ -16,7 +16,8 @@ São Paulo and Porto Alegre, Brazil · [kapstan.com.br](https://kapstan.com.br)
 
 | | |
 |---|---|
-| [**oficina**](https://github.com/kapstanhq/oficina) | AI tools by profession, in Portuguese, built to run in Claude Code. Free, MIT. Starting with real estate brokers. |
+| [**oficina**](https://github.com/kapstanhq/oficina) | AI tools by profession, in Portuguese. Two packs — real estate brokers and B2B prospecting — and 24 commands that work over a wallet of plain text files on the user's own machine. No server of ours in the middle. Free, MIT. |
+| [**whatsapp-reader**](https://github.com/kapstanhq/whatsapp-reader) | A WhatsApp bridge exposing MCP tools. Reading is unrestricted; sending is one message at a time, gated on a preview the operator must be shown first. Bulk messaging is not a missing feature — it cannot be expressed by the API. Go, MIT. |
 
 ---
 
@@ -24,13 +25,14 @@ São Paulo and Porto Alegre, Brazil · [kapstan.com.br](https://kapstan.com.br)
 
 Long-form guides on applied AI. In Portuguese:
 
-- [O que é um agente de IA](https://kapstan.com.br/o-que-e-agente-de-ia)
-- [Chatbot ou agente de IA](https://kapstan.com.br/chatbot-ou-agente-de-ia)
-- [Automação de atendimento no WhatsApp](https://kapstan.com.br/automacao-de-atendimento-whatsapp)
-- [IA aplicada ao processo da empresa](https://kapstan.com.br/ia-para-processos-da-empresa)
-- [Quanto custa automatizar o atendimento](https://kapstan.com.br/quanto-custa-automatizar-o-atendimento)
+- [O que é um agente de IA](https://kapstan.com.br/guias/o-que-e-agente-de-ia)
+- [Chatbot ou agente de IA](https://kapstan.com.br/guias/chatbot-ou-agente-de-ia)
+- [Automação de atendimento no WhatsApp](https://kapstan.com.br/guias/automacao-de-atendimento-whatsapp)
+- [GTM engineering](https://kapstan.com.br/guias/gtm-engineering)
+- [Forward deployed engineer](https://kapstan.com.br/guias/forward-deployed-engineer)
+- [Modelo de IA próprio](https://kapstan.com.br/guias/modelo-de-ia-proprio)
 
-[All guides →](https://kapstan.com.br/guias)
+[All fifteen guides →](https://kapstan.com.br/guias)
 
 ---
 
